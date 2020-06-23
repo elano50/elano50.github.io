@@ -4,15 +4,15 @@
         "details": [
             {
                 "appID": "7MSPFU2KV4.com.htkz.dev",
-                "paths": ["/sH?"]
+                "paths": ["/sH*"]
             },
             {
                 "appID": "7MSPFU2KV4.com.htkz.prod",
-                "paths": ["/sH?"]
+                "paths": ["/sH*"]
             },
             {
                 "appID": "7MSPFU2KV4.com.htkz.stage",
-                "paths": ["/sH?"]
+                "paths": ["/sH*"]
             }
         ]
     }
