@@ -1,0 +1,19 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "7MSPFU2KV4.com.htkz.dev",
+                "paths": ["/*"]
+            },
+            {
+                "appID": "7MSPFU2KV4.com.htkz.prod",
+                "paths": ["/*"]
+            },
+            {
+                "appID": "7MSPFU2KV4.com.htkz.stage",
+                "paths": ["/*"]
+            }
+        ]
+    }
+}
